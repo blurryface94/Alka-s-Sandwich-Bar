@@ -1,5 +1,5 @@
 # Alka's Sandwich Bar
-This a simple web app created using Vue.js, a new JavaScript Framework. The app has:
+This is a simple web app created using Vue.js, a new JavaScript Framework. The app has:
 1. A Navigation Page
 2. Make a Sandwich page
 3. Edit a Sandwich page
