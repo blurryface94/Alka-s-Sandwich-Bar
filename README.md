@@ -6,4 +6,4 @@ This is a simple web app created using Vue.js, a new JavaScript Framework. The a
 The app is hooked on Firebase for handling data. 
 
 
-Note: The type of database choosen is a beta version.
+Note: The database choosen is a beta version.
